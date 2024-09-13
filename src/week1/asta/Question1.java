@@ -1,4 +1,4 @@
-package week1.Asta;
+package week1.asta;
 
 public class Question1 {
 }
