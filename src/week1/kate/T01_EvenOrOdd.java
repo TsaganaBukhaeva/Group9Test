@@ -1,6 +1,6 @@
 package week1.kate;
 
-public class CodingTask01 {
+public class T01_EvenOrOdd {
     public static void main(String[] args) {
         System.out.println(identify(5)); // Output: Odd
         System.out.println(identify(6)); // Output: Even
