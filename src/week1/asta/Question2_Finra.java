@@ -1,7 +1,6 @@
 package week1.asta;
 
 public class Question2_Finra {
-
     public static String finra(int num) {
 
         for (int i = 1; i <= num; i++) {
