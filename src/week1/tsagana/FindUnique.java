@@ -9,7 +9,7 @@ public class FindUnique {
      * unique("AAABBBCCCDEF")===>"DEF
 
      * */
-
+//
 
     public static void main(String[] args) {
         String str = "AAABBBCCCDEF";
