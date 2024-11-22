@@ -24,7 +24,7 @@ public class SwapTwoNumbers {
         a = a-b; //4=12-8
 
         System.out.println("before swapping : a = 8, b = 4");
-        System.out.println("after swapping : a = " +a+ " b = " +b+ " ");
+        System.out.println("after swapping : a = " +a+ " b = " +b+ " "); //a = 4 b = 8
     }
 
 }
